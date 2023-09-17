@@ -1,4 +1,4 @@
 # Notes
 ___
 This repositiory will contain the collection of topicwise notes, articles and research papers.
-![image](https://github.com/pranavbelhekar01/Notes/assets/85128700/873dd9b3-5c93-4d76-8d22-7dba116cbc80)
+![image](https://i.pinimg.com/originals/8b/1a/c8/8b1ac82f4d555c91676818a7fe8a87d1.gif)

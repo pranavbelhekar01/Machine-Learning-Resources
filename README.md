@@ -6,5 +6,3 @@ Weekly Research Paper:
     - You can find the paper [here](https://assets.bwbx.io/documents/users/iqjWHBFdfxIU/r7G7RrtT6rnM/v0).
 
 
-<img src="https://i.pinimg.com/originals/8b/1a/c8/8b1ac82f4d555c91676818a7fe8a87d1.gif"  width=50% height=50%>
-

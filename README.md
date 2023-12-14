@@ -7,6 +7,6 @@ Weekly Research Paper:
     - [Website](https://deepmind.google/technologies/gemini/#introduction)
 - **Mistral AI 7B**
     - [Model](https://huggingface.co/mistralai)
-    - [Website]((https://mistral.ai/news/announcing-mistral-7b/)
+    - [Website](https://mistral.ai/news/announcing-mistral-7b/)
 
 

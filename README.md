@@ -1,6 +1,6 @@
 # AI Daily Papers Repository
 
-Welcome to the AI Daily Papers repository! 🚀 Stay updated with the latest and most impactful papers, articles, and books in the field of Artificial Intelligence.
+Welcome to the AI Daily Papers repository! ðŸš€ Stay updated with the latest and most impactful papers, articles, and books in the field of Artificial Intelligence.
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -15,14 +15,21 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
-### [2 Jan 2024](papers/2_Jan_2024.md)
+### 02 Jan 2024
+1. [LARP: Language-Agent Role Play for Open-World Games](https://huggingface.co/papers/2312.17653)
+2. [FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis](https://huggingface.co/papers/2312.17681)
+3. [PanGu-$π$: Enhancing Language Model Architectures via Nonlinearity Compensation](https://huggingface.co/papers/2312.17276)
+4. [Learning Vision from Models Rivals Learning Vision from Data](https://huggingface.co/papers/2312.17742)
+5. [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://huggingface.co/papers/2312.17661)
+
+### 2 Jan 2024
 1. [Title1](Link1)
 2. [Title2](Link2)
 
-### [1 Jan 2024](papers/1_Jan_2024.md)
+### 1 Jan 2024
 1. [Title3](Link3)
 
-### [31 Dec 2023](papers/31_Dec_2023.md)
+### 31 Dec 2023
 1. [Title4](Link4)
 2. [Title5](Link5)
 
@@ -49,10 +56,9 @@ Your contributions are highly valued! If you come across an interesting paper, a
 2. Add the paper, article, or book information to the corresponding section.
 3. Create a pull request, and your contribution will be reviewed and merged.
 
-Let's build an ever-growing resource together! 📚✨
+Let's build an ever-growing resource together! ðŸ“šâœ¨
 
 Enjoy exploring the world of AI!
 
 ---
 
-**Note:** This is a sample template. Customize it based on your actual data and add appropriate details about the papers, articles, and books you are showcasing in your repository.

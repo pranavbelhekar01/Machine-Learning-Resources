@@ -6,7 +6,7 @@ Welcome to the AI Daily Papers repository! 🚀 Stay updated with the latest and
 1. [Introduction](#introduction)
 2. [Papers](#papers)
 3. [Articles/Blogs](#articlesblogs)
-4. [Books](#books)
+4. [Books](https://github.com/pranavbelhekar01/Notes/blob/main/Books.md)
 5. [How to Contribute](#how-to-contribute)
 
 ## Introduction

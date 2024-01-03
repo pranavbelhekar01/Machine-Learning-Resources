@@ -47,7 +47,7 @@ def update_readme(url):
 
     
     # Read existing README file
-    with open(r'C:\Users\prana\Jupyter Codes\Project\Latest Papers\Notes\README.md', 'r') as file:
+    with open(r'C:\Users\prana\Jupyter Codes\Project\Latest Papers\Notes\README.md', 'r', encoding='utf-8') as file:
         readme_content = file.read()
 
     upper_section, lower_section = readme_content.split('## Papers')

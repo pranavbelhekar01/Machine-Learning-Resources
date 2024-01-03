@@ -15,6 +15,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 03 Jan 2024
+1. [DocLLM: A layout-aware generative language model for multimodal document understanding](https://huggingface.co/papers/2401.00908)
+2. [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://huggingface.co/papers/2401.01335)
+3. [Boundary Attention: Learning to Find Faint Boundaries at Any Resolution](https://huggingface.co/papers/2401.00935)
+4. [LLaMA Beyond English: An Empirical Study on Language Capability Transfer](https://huggingface.co/papers/2401.01055)
+5. [Q-Refine: A Perceptual Quality Refiner for AI-Generated Image](https://huggingface.co/papers/2401.01117)
+6. [TrailBlazer: Trajectory Control for Diffusion-Based Video Generation](https://huggingface.co/login?next=%2Fpapers%2F2401.00896)
+7. [Taming Mode Collapse in Score Distillation for Text-to-3D Generation](https://huggingface.co/login?next=%2Fpapers%2F2401.00909)
+8. [A Comprehensive Study of Knowledge Editing for Large Language Models](https://huggingface.co/papers/2401.01286)
+9. [LLM Maybe LongLM: Self-Extend LLM Context Window Without Tuning](https://huggingface.co/papers/2401.01325)
+10. [En3D: An Enhanced Generative Model for Sculpting 3D Humans from 2D Synthetic Data](https://huggingface.co/papers/2401.01173)
+11. [VideoDrafter: Content-Consistent Multi-Scene Video Generation with LLM](https://huggingface.co/papers/2401.01256)
+
 ### 02 Jan 2024
 1. [LARP: Language-Agent Role Play for Open-World Games](https://huggingface.co/papers/2312.17653)
 2. [FlowVid: Taming Imperfect Optical Flows for Consistent Video-to-Video Synthesis](https://huggingface.co/papers/2312.17681)

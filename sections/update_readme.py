@@ -4,7 +4,6 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
-# from lxml import html
 
 
 # ---------------------------------
@@ -45,7 +44,6 @@ def update_readme(url):
     # Fetch today's date
     today_date = datetime.today().strftime('%d %b %Y')
 
-    
     # Read existing README file
     with open(r'C:\Users\prana\Jupyter Codes\Project\Latest Papers\Notes\README.md', 'r', encoding='utf-8') as file:
         readme_content = file.read()

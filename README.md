@@ -15,6 +15,20 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 04 Jan 2024
+1. [From Audio to Photoreal Embodiment: Synthesizing Humans in Conversations](https://huggingface.co/papers/2401.01885)
+2. [GPT-4V(ision) is a Generalist Web Agent, if Grounded](https://huggingface.co/login?next=%2Fpapers%2F2401.01614)
+3. [aMUSEd: An Open MUSE Reproduction](https://huggingface.co/papers/2401.01808)
+4. [Image Sculpting: Precise Object Editing with 3D Geometry Control](https://huggingface.co/login?next=%2Fpapers%2F2401.01702)
+5. [Moonshot: Towards Controllable Video Generation and Editing with Multimodal Conditions](https://huggingface.co/papers/2401.01827)
+6. [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://huggingface.co/login?next=%2Fpapers%2F2401.01647)
+7. [Multilingual Instruction Tuning With Just a Pinch of Multilinguality](https://huggingface.co/papers/2401.01854)
+8. [Incremental FastPitch: Chunk-based High Quality Text to Speech](https://huggingface.co/papers/2401.01755)
+9. [CoMoSVC: Consistency Model-based Singing Voice Conversion](https://huggingface.co/papers/2401.01792)
+10. [Efficient Hybrid Zoom using Camera Fusion on Mobile Phones](https://huggingface.co/papers/2401.01461)
+11. [A Vision Check-up for Language Models](https://huggingface.co/papers/2401.01862)
+12. [WordArt Designer API: User-Driven Artistic Typography Synthesis with Large Language Models on ModelScope](https://huggingface.co/papers/2401.01699)
+
 ### 03 Jan 2024
 1. [DocLLM: A layout-aware generative language model for multimodal document understanding](https://huggingface.co/papers/2401.00908)
 2. [Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models](https://huggingface.co/papers/2401.01335)

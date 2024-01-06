@@ -50,17 +50,13 @@ def update_readme(url):
 
     # Add papers to today's data
     for index, row in df.iterrows():
-        
         today_data += f"{index + 1}. [{row['Title']}]({row['Paper_Link']})\n"
     
-
     updated_readme = upper_section + "## Papers\n" + today_data + lower_section
 
     # Write back to README file
     with open('README.md', 'w', encoding='utf-8') as file:
         file.write(updated_readme)
-
-
 
 
 if __name__ == '__main__':

@@ -12,7 +12,6 @@ def get_daily_papers(url):
     soup = BeautifulSoup(response.text, 'html.parser')
     # Initialize lists to store data
     data = {'Title': [], 'Paper_Link': [], 'Image': []}
-
     # Find all article elements
     articles = soup.find_all('article', class_ = "flex flex-col overflow-hidden rounded-xl border")
 

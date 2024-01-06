@@ -14,19 +14,15 @@ def get_daily_papers(url):
     data = {'Title': [], 'Paper_Link': [], 'Image': []}
     # Find all article elements
     articles = soup.find_all('article', class_ = "flex flex-col overflow-hidden rounded-xl border")
-
     # Iterate over each article
     for article in articles:
         # Extract image source if available
         img_tag = article.find('img')
         image = img_tag.get('src') if img_tag else None
-
         # Extract title text
         title = article.find('h3').text.strip()
-
         # Extract link
         link = "https://huggingface.co" + article.find('a').get('href')
-
         # Append data to lists
         data['Image'].append(image)
         data['Title'].append(title)

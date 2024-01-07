@@ -17,6 +17,22 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 07 Jan 2024
+1. [TinyLlama: An Open-Source Small Language Model](https://huggingface.co/papers/2401.02385)
+2. [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://huggingface.co/papers/2401.02038)
+3. [LLaMA Pro: Progressive LLaMA with Block Expansion](https://huggingface.co/papers/2401.02415)
+4. [LLM Augmented LLMs: Expanding Capabilities through Composition](https://huggingface.co/papers/2401.02412)
+5. [Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation](https://huggingface.co/login?next=%2Fpapers%2F2401.02117)
+6. [Instruct-Imagen: Image Generation with Multi-modal Instruction](https://huggingface.co/papers/2401.01952)
+7. [What You See is What You GAN: Rendering Every Pixel for High-Fidelity Geometry in 3D GANs](https://huggingface.co/papers/2401.02411)
+8. [Learning the 3D Fauna of the Web](https://huggingface.co/login?next=%2Fpapers%2F2401.02400)
+9. [ODIN: A Single Model for 2D and 3D Perception](https://huggingface.co/papers/2401.02416)
+10. [ICE-GRT: Instruction Context Enhancement by Generative Reinforcement based Transformers](https://huggingface.co/papers/2401.02072)
+11. [LLaVA-$φ$: Efficient Multi-Modal Assistant with Small Language Model](https://huggingface.co/papers/2401.02330)
+12. [Improving Diffusion-Based Image Synthesis with Context Prediction](https://huggingface.co/papers/2401.02015)
+13. [Towards Truly Zero-shot Compositional Visual Reasoning with LLMs as Programmers](https://huggingface.co/papers/2401.01974)
+14. [FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding](https://huggingface.co/papers/2401.01970)
+
 ### 06 Jan 2024
 1. [TinyLlama: An Open-Source Small Language Model](https://huggingface.co/papers/2401.02385)
 2. [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://huggingface.co/papers/2401.02038)

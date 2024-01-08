@@ -28,6 +28,7 @@ def get_daily_papers(url):
         data['Title'].append(title)
         data['Paper_Link'].append(link)
 
+
     df = pd.DataFrame(data)    
     return df
 

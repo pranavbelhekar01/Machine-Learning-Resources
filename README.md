@@ -17,6 +17,15 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 08 Jan 2024
+1. [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://huggingface.co/papers/2401.02954)
+2. [Denoising Vision Transformers](https://huggingface.co/papers/2401.02957)
+3. [Progressive Knowledge Distillation Of Stable Diffusion XL Using Layer Level Loss](https://huggingface.co/papers/2401.02677)
+4. [DocGraphLM: Documental Graph Language Model for Information Extraction](https://huggingface.co/papers/2401.02823)
+5. [Pheme: Efficient and Conversational Speech Generation](https://huggingface.co/papers/2401.02839)
+6. [Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively](https://huggingface.co/login?next=%2Fpapers%2F2401.02955)
+7. [Infinite-LLM: Efficient LLM Service for Long Context with DistAttention and Distributed KVCache](https://huggingface.co/papers/2401.02669)
+
 ### 07 Jan 2024
 1. [TinyLlama: An Open-Source Small Language Model](https://huggingface.co/papers/2401.02385)
 2. [Understanding LLMs: A Comprehensive Overview from Training to Inference](https://huggingface.co/papers/2401.02038)

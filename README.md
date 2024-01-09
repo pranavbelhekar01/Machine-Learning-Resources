@@ -17,6 +17,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 09 Jan 2024
+1. [Mixtral of Experts](https://huggingface.co/papers/2401.04088)
+2. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://huggingface.co/papers/2401.04081)
+3. [Blending Is All You Need: Cheaper, Better Alternative to Trillion-Parameters LLM](https://huggingface.co/papers/2401.02994)
+4. [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://huggingface.co/papers/2401.04092)
+5. [Soaring from 4K to 400K: Extending LLM's Context with Activation Beacon](https://huggingface.co/papers/2401.03462)
+6. [DiarizationLM: Speaker Diarization Post-Processing with Large Language Models](https://huggingface.co/papers/2401.03506)
+7. [CRUXEval: A Benchmark for Code Reasoning, Understanding and Execution](https://huggingface.co/papers/2401.03065)
+8. [TeleChat Technical Report](https://huggingface.co/papers/2401.03804)
+9. [Has Your Pretrained Model Improved? A Multi-head Posterior Based Approach](https://huggingface.co/papers/2401.02987)
+10. [AST-T5: Structure-Aware Pretraining for Code Generation and Understanding](https://huggingface.co/papers/2401.03003)
+11. [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://huggingface.co/login?next=%2Fpapers%2F2401.04099)
+
 ### 08 Jan 2024
 1. [DeepSeek LLM: Scaling Open-Source Language Models with Longtermism](https://huggingface.co/papers/2401.02954)
 2. [Denoising Vision Transformers](https://huggingface.co/papers/2401.02957)

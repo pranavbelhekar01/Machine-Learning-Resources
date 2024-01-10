@@ -17,6 +17,16 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 10 Jan 2024
+1. [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://huggingface.co/papers/2401.04468)
+2. [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://huggingface.co/papers/2401.04658)
+3. [Masked Audio Generation using a Single Non-Autoregressive Transformer](https://huggingface.co/papers/2401.04577)
+4. [Jump Cut Smoothing for Talking Heads](https://huggingface.co/login?next=%2Fpapers%2F2401.04718)
+5. [Let's Go Shopping (LGS) -- Web-Scale Image-Text Dataset for Visual Concept Understanding](https://huggingface.co/papers/2401.04575)
+6. [Chain-of-Table: Evolving Tables in the Reasoning Chain for Table Understanding](https://huggingface.co/papers/2401.04398)
+7. [Narrowing the Knowledge Evaluation Gap: Open-Domain Question Answering with Multi-Granularity Answers](https://huggingface.co/papers/2401.04695)
+8. [FADI-AEC: Fast Score Based Diffusion Model Guided by Far-end Signal for Acoustic Echo Cancellation](https://huggingface.co/papers/2401.04283)
+
 ### 09 Jan 2024
 1. [Mixtral of Experts](https://huggingface.co/papers/2401.04088)
 2. [MoE-Mamba: Efficient Selective State Space Models with Mixture of Experts](https://huggingface.co/papers/2401.04081)

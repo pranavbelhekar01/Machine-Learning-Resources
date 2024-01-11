@@ -17,6 +17,15 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 11 Jan 2024
+1. [PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models](https://huggingface.co/papers/2401.05252)
+2. [InseRF: Text-Driven Generative Object Insertion in Neural 3D Scenes](https://huggingface.co/login?next=%2Fpapers%2F2401.05335)
+3. [URHand: Universal Relightable Hands](https://huggingface.co/login?next=%2Fpapers%2F2401.05334)
+4. [The Impact of Reasoning Step Length on Large Language Models](https://huggingface.co/papers/2401.04925)
+5. [Bootstrapping LLM-based Task-Oriented Dialogue Agents via Self-Talk](https://huggingface.co/papers/2401.05033)
+6. [Score Distillation Sampling with Learned Manifold Corrective](https://huggingface.co/papers/2401.05293)
+7. [ANIM-400K: A Large-Scale Dataset for Automated End-To-End Dubbing of Video](https://huggingface.co/papers/2401.05314)
+
 ### 10 Jan 2024
 1. [MagicVideo-V2: Multi-Stage High-Aesthetic Video Generation](https://huggingface.co/papers/2401.04468)
 2. [Lightning Attention-2: A Free Lunch for Handling Unlimited Sequence Lengths in Large Language Models](https://huggingface.co/papers/2401.04658)

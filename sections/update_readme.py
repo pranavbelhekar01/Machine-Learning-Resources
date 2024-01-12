@@ -57,7 +57,7 @@ def update_readme(url):
     with open('README.md', 'w', encoding='utf-8') as file:
         file.write(updated_readme)
 
-
+# ----------------------
 if __name__ == '__main__':
     url = 'https://huggingface.co/papers'
     update_readme(url)

@@ -29,7 +29,7 @@ def get_daily_papers(url):
     df = pd.DataFrame(data)    
     return df
 #------------------------------
-def update_readme(url):
+def update_readme(url:str):
 
     # Fetch today's date
     today_date = datetime.today().strftime('%d %b %Y')

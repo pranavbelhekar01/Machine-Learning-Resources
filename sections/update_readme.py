@@ -57,6 +57,7 @@ def update_readme(url):
         file.write(updated_readme)
 
 # ----------------------
+# Driver code
 if __name__ == '__main__':
     url = 'https://huggingface.co/papers'
     update_readme(url)

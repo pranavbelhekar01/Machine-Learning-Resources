@@ -5,7 +5,7 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 # --------------------------------
-def get_daily_papers(url):
+def get_daily_papers(url:str):
     response = requests.get(url)
     soup = BeautifulSoup(response.text, 'html.parser')
     # Initialize lists to store data

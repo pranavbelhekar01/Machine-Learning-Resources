@@ -4,11 +4,11 @@
 Welcome to the AI Daily Papers repository! ðŸš€ Stay updated with the latest and most impactful papers, articles, and books in the field of Artificial Intelligence.
 
 ## Table of Content
-1. [Introduction](#introduction)
-2. [Papers](#papers)
-3. [Articles/Blogs](https://aiafternight.com/category/ai-feed/)
-4. [Books](https://github.com/pranavbelhekar01/Machine-Learning-Resources/blob/main/sections/Books.md)
-5. [How to Contribute](#how-to-contribute)
+1. 📌[Introduction](#introduction) 
+2. 🚀[Papers](#papers)
+3. ✈️[Articles/Blogs](https://aiafternight.com/category/ai-feed/) 
+4. 📚[Books](https://github.com/pranavbelhekar01/Machine-Learning-Resources/blob/main/sections/Books.md)
+5. 🤝[How to Contribute](#how-to-contribute)
    
 
 ## Introduction

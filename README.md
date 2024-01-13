@@ -17,6 +17,26 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 13 Jan 2024
+1. [TrustLLM: Trustworthiness in Large Language Models](https://huggingface.co/papers/2401.05561)
+2. [PALP: Prompt Aligned Personalization of Text-to-Image Models](https://huggingface.co/login?next=%2Fpapers%2F2401.06105)
+3. [Transformers are Multi-State RNNs](https://huggingface.co/papers/2401.06104)
+4. [Parrot: Pareto-optimal Multi-Reward Reinforcement Learning Framework for Text-to-Image Generation](https://huggingface.co/papers/2401.05675)
+5. [DeepSeekMoE: Towards Ultimate Expert Specialization in Mixture-of-Experts Language Models](https://huggingface.co/papers/2401.06066)
+6. [TRIPS: Trilinear Point Splatting for Real-Time Radiance Field Rendering](https://huggingface.co/login?next=%2Fpapers%2F2401.06003)
+7. [Patchscope: A Unifying Framework for Inspecting Hidden Representations of Language Models](https://huggingface.co/papers/2401.06102)
+8. [Towards Conversational Diagnostic AI](https://huggingface.co/papers/2401.05654)
+9. [TOFU: A Task of Fictitious Unlearning for LLMs](https://huggingface.co/papers/2401.06121)
+10. [Secrets of RLHF in Large Language Models Part II: Reward Modeling](https://huggingface.co/papers/2401.06080)
+11. [Diffusion Priors for Dynamic View Synthesis from Monocular Videos](https://huggingface.co/papers/2401.05583)
+12. [Distilling Vision-Language Models on Millions of Videos](https://huggingface.co/papers/2401.06129)
+13. [Object-Centric Diffusion for Efficient Video Editing](https://huggingface.co/papers/2401.05735)
+14. [LEGO:Language Enhanced Multi-modal Grounding Model](https://huggingface.co/papers/2401.06071)
+15. [Efficient LLM inference solution on Intel GPU](https://huggingface.co/papers/2401.05391)
+16. [Tuning LLMs with Contrastive Alignment Instructions for Machine Translation in Unseen, Low-resource Languages](https://huggingface.co/papers/2401.05811)
+17. [A Shocking Amount of the Web is Machine Translated: Insights from Multi-Way Parallelism](https://huggingface.co/papers/2401.05749)
+18. [Sleeper Agents: Training Deceptive LLMs that Persist Through Safety Training](https://huggingface.co/papers/2401.05566)
+
 ### 12 Jan 2024
 1. [TrustLLM: Trustworthiness in Large Language Models](https://huggingface.co/papers/2401.05561)
 2. [PALP: Prompt Aligned Personalization of Text-to-Image Models](https://huggingface.co/login?next=%2Fpapers%2F2401.06105)

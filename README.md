@@ -4,11 +4,11 @@
 Welcome to the AI Daily Papers repository! ðŸš€ Stay updated with the latest and most impactful papers, articles, and books in the field of Artificial Intelligence.
 
 ## Table of Content
-1. [Introduction](#introduction)
-2. [Papers](#papers)
-3. [Articles/Blogs](#articlesblogs)
-4. [Books](https://github.com/pranavbelhekar01/Notes/blob/main/Books.md)
-5. [How to Contribute](#how-to-contribute)
+1. 📌[Introduction](#introduction) 
+2. 🚀[Papers](#papers)
+3. ✈️[Articles/Blogs](https://aiafternight.com/category/ai-feed/) 
+4. 📚[Books](https://github.com/pranavbelhekar01/Machine-Learning-Resources/blob/main/sections/Books.md)
+5. 🤝[How to Contribute](#how-to-contribute)
    
 
 ## Introduction
@@ -199,6 +199,7 @@ Feel free to explore the different sections and discover valuable resources that
 3. [PanGu-$π$: Enhancing Language Model Architectures via Nonlinearity Compensation](https://huggingface.co/papers/2312.17276)
 4. [Learning Vision from Models Rivals Learning Vision from Data](https://huggingface.co/papers/2312.17742)
 5. [Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models](https://huggingface.co/papers/2312.17661)
+
 
 
 

@@ -17,6 +17,20 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 18 Jan 2024
+1. [Vision Mamba: Efficient Visual Representation Learning with Bidirectional State Space Model](https://huggingface.co/papers/2401.09417)
+2. [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://huggingface.co/papers/2401.09340)
+3. [ReFT: Reasoning with Reinforced Fine-Tuning](https://huggingface.co/papers/2401.08967)
+4. [UniVG: Towards UNIfied-modal Video Generation](https://huggingface.co/papers/2401.09084)
+5. [Asynchronous Local-SGD Training for Language Modeling](https://huggingface.co/papers/2401.09135)
+6. [DeepSpeed-FastGen: High-throughput Text Generation for LLMs via MII and DeepSpeed-Inference](https://huggingface.co/papers/2401.08671)
+7. [VideoCrafter2: Overcoming Data Limitations for High-Quality Video Diffusion Models](https://huggingface.co/papers/2401.09047)
+8. [GARField: Group Anything with Radiance Fields](https://huggingface.co/login?next=%2Fpapers%2F2401.09419)
+9. [SiT: Exploring Flow and Diffusion-based Generative Models with Scalable Interpolant Transformers](https://huggingface.co/papers/2401.08740)
+10. [Compose and Conquer: Diffusion-Based 3D Depth Aware Composable Image Synthesis](https://huggingface.co/papers/2401.09048)
+11. [ICON: Incremental CONfidence for Joint Pose and Radiance Field Optimization](https://huggingface.co/papers/2401.08937)
+12. [TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion](https://huggingface.co/login?next=%2Fpapers%2F2401.09416)
+
 ### 16 Jan 2024
 1. [TrustLLM: Trustworthiness in Large Language Models](https://huggingface.co/papers/2401.05561)
 2. [PALP: Prompt Aligned Personalization of Text-to-Image Models](https://huggingface.co/login?next=%2Fpapers%2F2401.06105)

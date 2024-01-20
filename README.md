@@ -17,6 +17,30 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 20 Jan 2024
+1. [Self-Rewarding Language Models](https://huggingface.co/papers/2401.10020)
+2. [VMamba: Visual State Space Model](https://huggingface.co/papers/2401.10166)
+3. [DiffusionGPT: LLM-Driven Text-to-Image Generation System](https://huggingface.co/papers/2401.10061)
+4. [ChatQA: Building GPT-4 Level Conversational QA Models](https://huggingface.co/papers/2401.10225)
+5. [Improving fine-grained understanding in image-text pre-training](https://huggingface.co/papers/2401.09865)
+6. [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://huggingface.co/papers/2401.09985)
+7. [FreGrad: Lightweight and Fast Frequency-aware Diffusion Vocoder](https://huggingface.co/papers/2401.10032)
+8. [SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild](https://huggingface.co/login?next=%2Fpapers%2F2401.10171)
+9. [Rethinking FID: Towards a Better Evaluation Metric for Image Generation](https://huggingface.co/papers/2401.09603)
+10. [CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects](https://huggingface.co/login?next=%2Fpapers%2F2401.09962)
+
+### 20 Jan 2024
+1. [Self-Rewarding Language Models](https://huggingface.co/papers/2401.10020)
+2. [VMamba: Visual State Space Model](https://huggingface.co/papers/2401.10166)
+3. [DiffusionGPT: LLM-Driven Text-to-Image Generation System](https://huggingface.co/papers/2401.10061)
+4. [ChatQA: Building GPT-4 Level Conversational QA Models](https://huggingface.co/papers/2401.10225)
+5. [Improving fine-grained understanding in image-text pre-training](https://huggingface.co/papers/2401.09865)
+6. [WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens](https://huggingface.co/papers/2401.09985)
+7. [FreGrad: Lightweight and Fast Frequency-aware Diffusion Vocoder](https://huggingface.co/papers/2401.10032)
+8. [SHINOBI: Shape and Illumination using Neural Object Decomposition via BRDF Optimization In-the-wild](https://huggingface.co/login?next=%2Fpapers%2F2401.10171)
+9. [Rethinking FID: Towards a Better Evaluation Metric for Image Generation](https://huggingface.co/papers/2401.09603)
+10. [CustomVideo: Customizing Text-to-Video Generation with Multiple Subjects](https://huggingface.co/login?next=%2Fpapers%2F2401.09962)
+
 ### 19 Jan 2024
 1. [Self-Rewarding Language Models](https://huggingface.co/papers/2401.10020)
 2. [DiffusionGPT: LLM-Driven Text-to-Image Generation System](https://huggingface.co/papers/2401.10061)

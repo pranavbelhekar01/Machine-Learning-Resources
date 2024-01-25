@@ -17,6 +17,15 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 25 Jan 2024
+1. [Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild](https://huggingface.co/papers/2401.13627)
+2. [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://huggingface.co/papers/2401.13601)
+3. [MambaByte: Token-free Selective State Space Model](https://huggingface.co/papers/2401.13660)
+4. [SpacTor-T5: Pre-training T5 Models with Span Corruption and Replaced Token Detection](https://huggingface.co/papers/2401.13160)
+5. [UNIMO-G: Unified Image Generation through Multimodal Conditional Diffusion](https://huggingface.co/papers/2401.13388)
+6. [MaLA-500: Massive Language Adaptation of Large Language Models](https://huggingface.co/papers/2401.13303)
+7. [ConTextual: Evaluating Context-Sensitive Text-Rich Visual Reasoning in Large Multimodal Models](https://huggingface.co/papers/2401.13311)
+
 ### 20 Jan 2024
 1. [Self-Rewarding Language Models](https://huggingface.co/papers/2401.10020)
 2. [VMamba: Visual State Space Model](https://huggingface.co/papers/2401.10166)

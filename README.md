@@ -17,6 +17,22 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 27 Jan 2024
+1. [Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All](https://huggingface.co/login?next=%2Fpapers%2F2401.13795)
+2. [Rethinking Patch Dependence for Masked Autoencoders](https://huggingface.co/papers/2401.14391)
+3. [DeepSeek-Coder: When the Large Language Model Meets Programming -- The Rise of Code Intelligence](https://huggingface.co/papers/2401.14196)
+4. [Deconstructing Denoising Diffusion Models for Self-Supervised Learning](https://huggingface.co/papers/2401.14404)
+5. [Unitxt: Flexible, Shareable and Reusable Data Preparation and Evaluation for Generative AI](https://huggingface.co/login?next=%2Fpapers%2F2401.14019)
+6. [WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models](https://huggingface.co/papers/2401.13919)
+7. [Multimodal Pathway: Improve Transformers with Irrelevant Data from Other Modalities](https://huggingface.co/papers/2401.14405)
+8. [BootPIG: Bootstrapping Zero-shot Personalized Image Generation Capabilities in Pretrained Diffusion Models](https://huggingface.co/papers/2401.13974)
+9. [pix2gestalt: Amodal Segmentation by Synthesizing Wholes](https://huggingface.co/login?next=%2Fpapers%2F2401.14398)
+10. [FP6-LLM: Efficiently Serving Large Language Models Through FP6-Centric Algorithm-System Co-Design](https://huggingface.co/papers/2401.14112)
+11. [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://huggingface.co/papers/2401.14257)
+12. [Adaptive Mobile Manipulation for Articulated Objects In the Open World](https://huggingface.co/login?next=%2Fpapers%2F2401.14403)
+13. [Genie: Achieving Human Parity in Content-Grounded Datasets Generation](https://huggingface.co/papers/2401.14367)
+14. [CreativeSynth: Creative Blending and Synthesis of Visual Arts based on Multimodal Diffusion](https://huggingface.co/papers/2401.14066)
+
 ### 25 Jan 2024
 1. [Scaling Up to Excellence: Practicing Model Scaling for Photo-Realistic Image Restoration In the Wild](https://huggingface.co/papers/2401.13627)
 2. [MM-LLMs: Recent Advances in MultiModal Large Language Models](https://huggingface.co/papers/2401.13601)

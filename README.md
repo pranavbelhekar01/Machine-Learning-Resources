@@ -17,6 +17,22 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 31 Jan 2024
+1. [Weaver: Foundation Models for Creative Writing](https://huggingface.co/papers/2401.17268)
+2. [BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation](https://huggingface.co/login?next=%2Fpapers%2F2401.17053)
+3. [YOLO-World: Real-Time Open-Vocabulary Object Detection](https://huggingface.co/papers/2401.17270)
+4. [Proactive Detection of Voice Cloning with Localized Watermarking](https://huggingface.co/papers/2401.17264)
+5. [StrokeNUWA: Tokenizing Strokes for Vector Graphic Synthesis](https://huggingface.co/papers/2401.17093)
+6. [Weak-to-Strong Jailbreaking on Large Language Models](https://huggingface.co/papers/2401.17256)
+7. [Transfer Learning for Text Diffusion Models](https://huggingface.co/papers/2401.17181)
+8. [Repositioning the Subject within Image](https://huggingface.co/login?next=%2Fpapers%2F2401.16861)
+9. [OWSM v3.1: Better and Faster Open Whisper-Style Speech Models based on E-Branchformer](https://huggingface.co/papers/2401.16658)
+10. [High-Quality Image Restoration Following Human Instructions](https://huggingface.co/papers/2401.16468)
+11. [H2O-Danube-1.8B Technical Report](https://huggingface.co/papers/2401.16818)
+12. [ReGAL: Refactoring Programs to Discover Generalizable Abstractions](https://huggingface.co/papers/2401.16467)
+13. [MouSi: Poly-Visual-Expert Vision-Language Models](https://huggingface.co/papers/2401.17221)
+14. [T3: Transparent Tracking & Triggering for Fine-grained Overlap of Compute & Collectives](https://huggingface.co/papers/2401.16677)
+
 ### 27 Jan 2024
 1. [Diffuse to Choose: Enriching Image Conditioned Inpainting in Latent Diffusion Models for Virtual Try-All](https://huggingface.co/login?next=%2Fpapers%2F2401.13795)
 2. [Rethinking Patch Dependence for Masked Autoencoders](https://huggingface.co/papers/2401.14391)

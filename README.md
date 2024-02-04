@@ -17,6 +17,32 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 04 Feb 2024
+1. [OLMo: Accelerating the Science of Language Models](https://huggingface.co/papers/2402.00838)
+2. [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://huggingface.co/papers/2402.00159)
+3. [CroissantLLM: A Truly Bilingual French-English Language Model](https://huggingface.co/papers/2402.00786)
+4. [AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://huggingface.co/login?next=%2Fpapers%2F2402.00769)
+5. [Can Large Language Models Understand Context?](https://huggingface.co/papers/2402.00858)
+6. [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://huggingface.co/papers/2402.00854)
+7. [Efficient Exploration for LLMs](https://huggingface.co/papers/2402.00396)
+8. [Machine Unlearning for Image-to-Image Generative Models](https://huggingface.co/papers/2402.00351)
+9. [AToM: Amortized Text-to-Mesh using 2D Diffusion](https://huggingface.co/papers/2402.00867)
+10. [Transforming and Combining Rewards for Aligning Large Language Models](https://huggingface.co/papers/2402.00742)
+11. [EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models](https://huggingface.co/papers/2402.00518)
+
+### 04 Feb 2024
+1. [OLMo: Accelerating the Science of Language Models](https://huggingface.co/papers/2402.00838)
+2. [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://huggingface.co/papers/2402.00159)
+3. [CroissantLLM: A Truly Bilingual French-English Language Model](https://huggingface.co/papers/2402.00786)
+4. [AnimateLCM: Accelerating the Animation of Personalized Diffusion Models and Adapters with Decoupled Consistency Learning](https://huggingface.co/login?next=%2Fpapers%2F2402.00769)
+5. [Can Large Language Models Understand Context?](https://huggingface.co/papers/2402.00858)
+6. [SymbolicAI: A framework for logic-based approaches combining generative models and solvers](https://huggingface.co/papers/2402.00854)
+7. [Efficient Exploration for LLMs](https://huggingface.co/papers/2402.00396)
+8. [Machine Unlearning for Image-to-Image Generative Models](https://huggingface.co/papers/2402.00351)
+9. [AToM: Amortized Text-to-Mesh using 2D Diffusion](https://huggingface.co/papers/2402.00867)
+10. [Transforming and Combining Rewards for Aligning Large Language Models](https://huggingface.co/papers/2402.00742)
+11. [EE-Tuning: An Economical yet Scalable Solution for Tuning Early-Exit Large Language Models](https://huggingface.co/papers/2402.00518)
+
 ### 31 Jan 2024
 1. [Weaver: Foundation Models for Creative Writing](https://huggingface.co/papers/2401.17268)
 2. [BlockFusion: Expandable 3D Scene Generation using Latent Tri-plane Extrapolation](https://huggingface.co/login?next=%2Fpapers%2F2401.17053)

@@ -17,6 +17,17 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 05 Feb 2024
+1. [StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback](https://huggingface.co/papers/2402.01391)
+2. [Specialized Language Models with Cheap Inference from Limited Domain Data](https://huggingface.co/papers/2402.01093)
+3. [PokéLLMon: A Human-Parity Agent for Pokémon Battles with Large Language Models](https://huggingface.co/papers/2402.01118)
+4. [K-Level Reasoning with Large Language Models](https://huggingface.co/papers/2402.01521)
+5. [TravelPlanner: A Benchmark for Real-World Planning with Language Agents](https://huggingface.co/papers/2402.01622)
+6. [Boximator: Generating Rich and Controllable Motions for Video Synthesis](https://huggingface.co/login?next=%2Fpapers%2F2402.01566)
+7. [Repeat After Me: Transformers are Better than State Space Models at Copying](https://huggingface.co/papers/2402.01032)
+8. [EVA-GAN: Enhanced Various Audio Generation via Scalable Generative Adversarial Networks](https://huggingface.co/papers/2402.00892)
+9. [Nomic Embed: Training a Reproducible Long Context Text Embedder](https://huggingface.co/papers/2402.01613)
+
 ### 04 Feb 2024
 1. [OLMo: Accelerating the Science of Language Models](https://huggingface.co/papers/2402.00838)
 2. [Dolma: an Open Corpus of Three Trillion Tokens for Language Model Pretraining Research](https://huggingface.co/papers/2402.00159)

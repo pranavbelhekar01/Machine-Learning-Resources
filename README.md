@@ -17,6 +17,17 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 08 Feb 2024
+1. [ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation](https://huggingface.co/papers/2402.04324)
+2. [Direct Language Model Alignment from Online AI Feedback](https://huggingface.co/papers/2402.04792)
+3. [BiLLM: Pushing the Limit of Post-Training Quantization for LLMs](https://huggingface.co/papers/2402.04291)
+4. [ScreenAI: A Vision-Language Model for UI and Infographics Understanding](https://huggingface.co/papers/2402.04615)
+5. [TP-Aware Dequantization](https://huggingface.co/papers/2402.04925)
+6. [Fine-Tuned Language Models Generate Stable Inorganic Materials as Text](https://huggingface.co/papers/2402.04379)
+7. [Hydragen: High-Throughput LLM Inference with Shared Prefixes](https://huggingface.co/papers/2402.05099)
+8. [CodeIt: Self-Improving Language Models with Prioritized Hindsight Replay](https://huggingface.co/papers/2402.04858)
+9. [Progressive Gradient Flow for Robust N:M Sparsity Training in Transformers](https://huggingface.co/papers/2402.04744)
+
 ### 05 Feb 2024
 1. [StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback](https://huggingface.co/papers/2402.01391)
 2. [Specialized Language Models with Cheap Inference from Limited Domain Data](https://huggingface.co/papers/2402.01093)

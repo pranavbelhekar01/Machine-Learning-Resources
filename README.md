@@ -17,6 +17,23 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 09 Feb 2024
+1. [More Agents Is All You Need](https://huggingface.co/papers/2402.05120)
+2. [$λ$-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space](https://huggingface.co/papers/2402.05195)
+3. [Multilingual E5 Text Embeddings: A Technical Report](https://huggingface.co/papers/2402.05672)
+4. [SPHINX-X: Scaling Data and Parameters for a Family of Multi-modal Large Language Models](https://huggingface.co/papers/2402.05935)
+5. [WebLINX: Real-World Website Navigation with Multi-Turn Dialogue](https://huggingface.co/login?next=%2Fpapers%2F2402.05930)
+6. [Tag-LLM: Repurposing General-Purpose LLMs for Specialized Domains](https://huggingface.co/papers/2402.05140)
+7. [An Interactive Agent Foundation Model](https://huggingface.co/papers/2402.05929)
+8. [Memory Consolidation Enables Long-Context Video Understanding](https://huggingface.co/papers/2402.05861)
+9. [Offline Actor-Critic Reinforcement Learning Scales to Large Models](https://huggingface.co/papers/2402.05546)
+10. [In-Context Principle Learning from Mistakes](https://huggingface.co/papers/2402.05403)
+11. [Implicit Diffusion: Efficient Optimization through Stochastic Sampling](https://huggingface.co/papers/2402.05468)
+12. [SpiRit-LM: Interleaved Spoken and Written Language Model](https://huggingface.co/papers/2402.05755)
+13. [Question Aware Vision Transformer for Multimodal Reasoning](https://huggingface.co/papers/2402.05472)
+14. [InstaGen: Enhancing Object Detection by Training on Synthetic Dataset](https://huggingface.co/papers/2402.05937)
+15. [Driving Everywhere with Large Language Model Policy Adaptation](https://huggingface.co/papers/2402.05932)
+
 ### 08 Feb 2024
 1. [ConsistI2V: Enhancing Visual Consistency for Image-to-Video Generation](https://huggingface.co/papers/2402.04324)
 2. [Direct Language Model Alignment from Online AI Feedback](https://huggingface.co/papers/2402.04792)

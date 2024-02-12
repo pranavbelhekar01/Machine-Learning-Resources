@@ -17,6 +17,20 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 12 Feb 2024
+1. [ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling](https://huggingface.co/papers/2402.06118)
+2. [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://huggingface.co/papers/2402.06149)
+3. [Aya Dataset: An Open-Access Collection for Multilingual Instruction Tuning](https://huggingface.co/papers/2402.06619)
+4. [MusicMagus: Zero-Shot Text-to-Music Editing via Diffusion Models](https://huggingface.co/papers/2402.06178)
+5. [InternLM-Math: Open Math Large Language Models Toward Verifiable Reasoning](https://huggingface.co/papers/2402.06332)
+6. [Keyframer: Empowering Animation Design using Large Language Models](https://huggingface.co/papers/2402.06071)
+7. [SubGen: Token Generation in Sublinear Time and Memory](https://huggingface.co/papers/2402.06082)
+8. [DeAL: Decoding-time Alignment for Large Language Models](https://huggingface.co/papers/2402.06147)
+9. [Model Editing with Canonical Examples](https://huggingface.co/papers/2402.06155)
+10. [Animated Stickers: Bringing Stickers to Life with Video Diffusion](https://huggingface.co/papers/2402.06088)
+11. [Real-World Fluid Directed Rigid Body Control via Deep Reinforcement Learning](https://huggingface.co/papers/2402.06102)
+12. [Premier-TACO: Pretraining Multitask Representation via Temporal Action-Driven Contrastive Loss](https://huggingface.co/papers/2402.06187)
+
 ### 09 Feb 2024
 1. [More Agents Is All You Need](https://huggingface.co/papers/2402.05120)
 2. [$λ$-ECLIPSE: Multi-Concept Personalized Text-to-Image Diffusion Models by Leveraging CLIP Latent Space](https://huggingface.co/papers/2402.05195)

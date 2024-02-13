@@ -17,6 +17,24 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 13 Feb 2024
+1. [Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model](https://huggingface.co/papers/2402.07827)
+2. [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://huggingface.co/login?next=%2Fpapers%2F2402.07456)
+3. [ChemLLM: A Chemical Large Language Model](https://huggingface.co/papers/2402.06852)
+4. [Policy Improvement using Language Feedback Models](https://huggingface.co/papers/2402.07876)
+5. [Making Flow-Matching-Based Zero-Shot Text-to-Speech Laugh as You Like](https://huggingface.co/papers/2402.07383)
+6. [Fiddler: CPU-GPU Orchestration for Fast Inference of Mixture-of-Experts Models](https://huggingface.co/papers/2402.07033)
+7. [ODIN: Disentangled Reward Mitigates Hacking in RLHF](https://huggingface.co/papers/2402.07319)
+8. [PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs](https://huggingface.co/papers/2402.07872)
+9. [Scaling Laws for Fine-Grained Mixture of Experts](https://huggingface.co/papers/2402.07871)
+10. [AutoMathText: Autonomous Data Selection with Language Models for Mathematical Texts](https://huggingface.co/papers/2402.07625)
+11. [A Tale of Tails: Model Collapse as a Change of Scaling Laws](https://huggingface.co/papers/2402.07043)
+12. [Suppressing Pink Elephants with Direct Principle Feedback](https://huggingface.co/papers/2402.07896)
+13. [LiRank: Industrial Large Scale Ranking Models at LinkedIn](https://huggingface.co/papers/2402.06859)
+14. [Prismatic VLMs: Investigating the Design Space of Visually-Conditioned Language Models](https://huggingface.co/papers/2402.07865)
+15. [Step-On-Feet Tuning: Scaling Self-Alignment of LLMs via Bootstrapping](https://huggingface.co/papers/2402.07610)
+16. [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://huggingface.co/login?next=%2Fpapers%2F2402.07207)
+
 ### 12 Feb 2024
 1. [ViGoR: Improving Visual Grounding of Large Vision Language Models with Fine-Grained Reward Modeling](https://huggingface.co/papers/2402.06118)
 2. [HeadStudio: Text to Animatable Head Avatars with 3D Gaussian Splatting](https://huggingface.co/papers/2402.06149)

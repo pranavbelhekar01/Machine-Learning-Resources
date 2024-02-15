@@ -18,6 +18,17 @@ Feel free to explore the different sections and discover valuable resources that
 ## Papers
 ### 15 Feb 2024
 1. [Magic-Me: Identity-Specific Video Customized Diffusion](https://huggingface.co/login?next=%2Fpapers%2F2402.09368)
+2. [Premise Order Matters in Reasoning with Large Language Models](https://huggingface.co/papers/2402.08939)
+3. [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://huggingface.co/papers/2402.09052)
+4. [Transformers Can Achieve Length Generalization But Not Robustly](https://huggingface.co/papers/2402.09371)
+5. [Computing Power and the Governance of Artificial Intelligence](https://huggingface.co/papers/2402.08797)
+6. [PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models](https://huggingface.co/login?next=%2Fpapers%2F2402.08714)
+7. [MPIrigen: MPI Code Generation through Domain-Specific Language Models](https://huggingface.co/papers/2402.09126)
+8. [GhostWriter: Augmenting Collaborative Human-AI Writing Experiences Through Personalization and Agency](https://huggingface.co/papers/2402.08855)
+9. [Towards Next-Level Post-Training Quantization of Hyper-Scale Transformers](https://huggingface.co/papers/2402.08958)
+
+### 15 Feb 2024
+1. [Magic-Me: Identity-Specific Video Customized Diffusion](https://huggingface.co/login?next=%2Fpapers%2F2402.09368)
 2. [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://huggingface.co/papers/2402.09052)
 3. [Transformers Can Achieve Length Generalization But Not Robustly](https://huggingface.co/papers/2402.09371)
 4. [Premise Order Matters in Reasoning with Large Language Models](https://huggingface.co/papers/2402.08939)

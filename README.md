@@ -17,6 +17,17 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 15 Feb 2024
+1. [Magic-Me: Identity-Specific Video Customized Diffusion](https://huggingface.co/login?next=%2Fpapers%2F2402.09368)
+2. [L3GO: Language Agents with Chain-of-3D-Thoughts for Generating Unconventional Objects](https://huggingface.co/papers/2402.09052)
+3. [Transformers Can Achieve Length Generalization But Not Robustly](https://huggingface.co/papers/2402.09371)
+4. [Premise Order Matters in Reasoning with Large Language Models](https://huggingface.co/papers/2402.08939)
+5. [GhostWriter: Augmenting Collaborative Human-AI Writing Experiences Through Personalization and Agency](https://huggingface.co/papers/2402.08855)
+6. [PRDP: Proximal Reward Difference Prediction for Large-Scale Reward Finetuning of Diffusion Models](https://huggingface.co/login?next=%2Fpapers%2F2402.08714)
+7. [Computing Power and the Governance of Artificial Intelligence](https://huggingface.co/papers/2402.08797)
+8. [Towards Next-Level Post-Training Quantization of Hyper-Scale Transformers](https://huggingface.co/papers/2402.08958)
+9. [MPIrigen: MPI Code Generation through Domain-Specific Language Models](https://huggingface.co/papers/2402.09126)
+
 ### 13 Feb 2024
 1. [Aya Model: An Instruction Finetuned Open-Access Multilingual Language Model](https://huggingface.co/papers/2402.07827)
 2. [OS-Copilot: Towards Generalist Computer Agents with Self-Improvement](https://huggingface.co/login?next=%2Fpapers%2F2402.07456)

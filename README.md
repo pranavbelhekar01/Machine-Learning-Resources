@@ -16,6 +16,20 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 19 Feb 2024
+1. [In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss](https://huggingface.co/papers/2402.10790)
+2. [GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting](https://huggingface.co/login?next=%2Fpapers%2F2402.10259)
+3. [DataDreamer: A Tool for Synthetic Data Generation and Reproducible LLM Workflows](https://huggingface.co/papers/2402.10379)
+4. [LLM Comparator: Visual Analytics for Side-by-Side Evaluation of Large Language Models](https://huggingface.co/papers/2402.10524)
+5. [Large Language Models as Zero-shot Dialogue State Tracker through Function Calling](https://huggingface.co/papers/2402.10466)
+6. [LAVE: LLM-Powered Agent Assistance and Language Augmentation for Video Editing](https://huggingface.co/papers/2402.10294)
+7. [Make a Cheap Scaling: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation](https://huggingface.co/papers/2402.10491)
+8. [Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots](https://huggingface.co/login?next=%2Fpapers%2F2402.10329)
+9. [PaLM2-VAdapter: Progressively Aligned Language Model Makes a Strong Vision-language Adapter](https://huggingface.co/papers/2402.10896)
+10. [RLVF: Learning from Verbal Feedback without Overgeneralization](https://huggingface.co/papers/2402.10893)
+11. [SPAR: Personalized Content-Based Recommendation via Long Engagement Attention](https://huggingface.co/papers/2402.10555)
+12. [Linear Transformers with Learnable Kernel Functions are Better In-Context Models](https://huggingface.co/papers/2402.10644)
+
 ### 15 Feb 2024
 1. [Magic-Me: Identity-Specific Video Customized Diffusion](https://huggingface.co/login?next=%2Fpapers%2F2402.09368)
 2. [Premise Order Matters in Reasoning with Large Language Models](https://huggingface.co/papers/2402.08939)

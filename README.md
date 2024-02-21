@@ -16,6 +16,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 21 Feb 2024
+1. [Neural Network Diffusion](https://huggingface.co/papers/2402.13144)
+2. [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models](https://huggingface.co/papers/2402.13064)
+3. [Improving Robustness for Joint Optimization of Camera Poses and Decomposed Low-Rank Tensorial Radiance Fields](https://huggingface.co/login?next=%2Fpapers%2F2402.13252)
+4. [VideoPrism: A Foundational Visual Encoder for Video Understanding](https://huggingface.co/papers/2402.13217)
+5. [Video ReCap: Recursive Captioning of Hour-Long Videos](https://huggingface.co/papers/2402.13250)
+6. [How Easy is It to Fool Your Multimodal LLMs? An Empirical Analysis on Deceptive Prompts](https://huggingface.co/papers/2402.13220)
+7. [The FinBen: An Holistic Financial Benchmark for Large Language Models](https://huggingface.co/papers/2402.12659)
+8. [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](https://huggingface.co/login?next=%2Fpapers%2F2402.12712)
+9. [TofuEval: Evaluating Hallucinations of LLMs on Topic-Focused Dialogue Summarization](https://huggingface.co/papers/2402.13249)
+10. [A Touch, Vision, and Language Dataset for Multimodal Alignment](https://huggingface.co/papers/2402.13232)
+11. [RealCompo: Dynamic Equilibrium between Realism and Compositionality Improves Text-to-Image Diffusion Models](https://huggingface.co/papers/2402.12908)
+
 ### 19 Feb 2024
 1. [In Search of Needles in a 10M Haystack: Recurrent Memory Finds What LLMs Miss](https://huggingface.co/papers/2402.10790)
 2. [GaussianObject: Just Taking Four Images to Get A High-Quality 3D Object with Gaussian Splatting](https://huggingface.co/login?next=%2Fpapers%2F2402.10259)

@@ -17,6 +17,27 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 24 Feb 2024
+1. [OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement](https://huggingface.co/login?next=%2Fpapers%2F2402.14658)
+2. [Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping](https://huggingface.co/papers/2402.14083)
+3. [PALO: A Polyglot Large Multimodal Model for 5B People](https://huggingface.co/papers/2402.14818)
+4. [Snap Video: Scaled Spatiotemporal Transformers for Text-to-Video Synthesis](https://huggingface.co/papers/2402.14797)
+5. [Subobject-level Image Tokenization](https://huggingface.co/papers/2402.14327)
+6. [AgentScope: A Flexible yet Robust Multi-Agent Platform](https://huggingface.co/papers/2402.14034)
+7. [TinyLLaVA: A Framework of Small-scale Large Multimodal Models](https://huggingface.co/papers/2402.14289)
+8. [OmniPred: Language Models as Universal Regressors](https://huggingface.co/papers/2402.14547)
+9. [LexC-Gen: Generating Data for Extremely Low-Resource Languages with Large Language Models and Bilingual Lexicons](https://huggingface.co/papers/2402.14086)
+10. [T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching](https://huggingface.co/papers/2402.14167)
+11. [GeneOH Diffusion: Towards Generalizable Hand-Object Interaction Denoising via Denoising Diffusion](https://huggingface.co/login?next=%2Fpapers%2F2402.14810)
+12. [GaussianPro: 3D Gaussian Splatting with Progressive Propagation](https://huggingface.co/login?next=%2Fpapers%2F2402.14650)
+13. [Scaling Up LLM Reviews for Google Ads Content Moderation](https://huggingface.co/papers/2402.14590)
+14. [Copilot Evaluation Harness: Evaluating LLM-Guided Software Programming](https://huggingface.co/papers/2402.14261)
+15. [CyberDemo: Augmenting Simulated Human Demonstration for Real-World Dexterous Manipulation](https://huggingface.co/papers/2402.14795)
+16. [BeTAIL: Behavior Transformer Adversarial Imitation Learning from Human Racing Gameplay](https://huggingface.co/papers/2402.14194)
+17. [MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion](https://huggingface.co/papers/2402.14253)
+18. [Linear Transformers are Versatile In-Context Learners](https://huggingface.co/papers/2402.14180)
+19. [Consolidating Attention Features for Multi-view Image Editing](https://huggingface.co/login?next=%2Fpapers%2F2402.14792)
+
 ### 21 Feb 2024
 1. [Neural Network Diffusion](https://huggingface.co/papers/2402.13144)
 2. [Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models](https://huggingface.co/papers/2402.13064)

@@ -17,6 +17,23 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 28 Feb 2024
+1. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://huggingface.co/papers/2402.17764)
+2. [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://huggingface.co/papers/2402.17485)
+3. [Sora: A Review on Background, Technology, Limitations, and Opportunities of Large Vision Models](https://huggingface.co/papers/2402.17177)
+4. [DiffuseKronA: A Parameter Efficient Fine-tuning Method for Personalized Diffusion Model](https://huggingface.co/papers/2402.17412)
+5. [Towards Optimal Learning of Language Models](https://huggingface.co/papers/2402.17759)
+6. [Video as the New Language for Real-World Decision Making](https://huggingface.co/papers/2402.17139)
+7. [Seeing and Hearing: Open-domain Visual-Audio Generation with Diffusion Latent Aligners](https://huggingface.co/login?next=%2Fpapers%2F2402.17723)
+8. [Sora Generates Videos with Stunning Geometrical Consistency](https://huggingface.co/papers/2402.17403)
+9. [Disentangled 3D Scene Generation with Layout Learning](https://huggingface.co/papers/2402.16936)
+10. [Playground v2.5: Three Insights towards Enhancing Aesthetic Quality in Text-to-Image Generation](https://huggingface.co/papers/2402.17245)
+11. [When Scaling Meets LLM Finetuning: The Effect of Data, Model and Finetuning Method](https://huggingface.co/papers/2402.17193)
+12. [VastGaussian: Vast 3D Gaussians for Large Scene Reconstruction](https://huggingface.co/papers/2402.17427)
+13. [OmniACT: A Dataset and Benchmark for Enabling Multimodal Generalist Autonomous Agents for Desktop and Web](https://huggingface.co/papers/2402.17553)
+14. [Evaluating Very Long-Term Conversational Memory of LLM Agents](https://huggingface.co/papers/2402.17753)
+15. [Training-Free Long-Context Scaling of Large Language Models](https://huggingface.co/papers/2402.17463)
+
 ### 25 Feb 2024
 1. [OpenCodeInterpreter: Integrating Code Generation with Execution and Refinement](https://huggingface.co/login?next=%2Fpapers%2F2402.14658)
 2. [Beyond A*: Better Planning with Transformers via Search Dynamics Bootstrapping](https://huggingface.co/papers/2402.14083)

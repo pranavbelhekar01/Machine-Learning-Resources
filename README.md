@@ -18,6 +18,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 03 Mar 2024
+1. [StarCoder 2 and The Stack v2: The Next Generation](https://huggingface.co/papers/2402.19173)
+2. [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://huggingface.co/papers/2402.19427)
+3. [Beyond Language Models: Byte Models are Digital World Simulators](https://huggingface.co/papers/2402.19155)
+4. [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://huggingface.co/papers/2402.19479)
+5. [Humanoid Locomotion as Next Token Prediction](https://huggingface.co/login?next=%2Fpapers%2F2402.19469)
+6. [MOSAIC: A Modular System for Assistive and Interactive Cooking](https://huggingface.co/login?next=%2Fpapers%2F2402.18796)
+7. [Simple linear attention language models balance the recall-throughput tradeoff](https://huggingface.co/papers/2402.18668)
+8. [Trajectory Consistency Distillation](https://huggingface.co/papers/2402.19159)
+9. [DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models](https://huggingface.co/papers/2402.19481)
+10. [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](https://huggingface.co/login?next=%2Fpapers%2F2402.18842)
+11. [Priority Sampling of Large Language Models for Compilers](https://huggingface.co/papers/2402.18734)
+
 ### 28 Feb 2024
 1. [The Era of 1-bit LLMs: All Large Language Models are in 1.58 Bits](https://huggingface.co/papers/2402.17764)
 2. [EMO: Emote Portrait Alive - Generating Expressive Portrait Videos with Audio2Video Diffusion Model under Weak Conditions](https://huggingface.co/papers/2402.17485)

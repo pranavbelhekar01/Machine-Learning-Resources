@@ -18,6 +18,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 04 Mar 2024
+1. [StarCoder 2 and The Stack v2: The Next Generation](https://huggingface.co/papers/2402.19173)
+2. [Beyond Language Models: Byte Models are Digital World Simulators](https://huggingface.co/papers/2402.19155)
+3. [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://huggingface.co/papers/2402.19427)
+4. [Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers](https://huggingface.co/papers/2402.19479)
+5. [MOSAIC: A Modular System for Assistive and Interactive Cooking](https://huggingface.co/login?next=%2Fpapers%2F2402.18796)
+6. [Humanoid Locomotion as Next Token Prediction](https://huggingface.co/login?next=%2Fpapers%2F2402.19469)
+7. [Simple linear attention language models balance the recall-throughput tradeoff](https://huggingface.co/papers/2402.18668)
+8. [Trajectory Consistency Distillation](https://huggingface.co/papers/2402.19159)
+9. [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](https://huggingface.co/login?next=%2Fpapers%2F2402.18842)
+10. [DistriFusion: Distributed Parallel Inference for High-Resolution Diffusion Models](https://huggingface.co/papers/2402.19481)
+11. [Priority Sampling of Large Language Models for Compilers](https://huggingface.co/papers/2402.18734)
+
 ### 03 Mar 2024
 1. [StarCoder 2 and The Stack v2: The Next Generation](https://huggingface.co/papers/2402.19173)
 2. [Griffin: Mixing Gated Linear Recurrences with Local Attention for Efficient Language Models](https://huggingface.co/papers/2402.19427)

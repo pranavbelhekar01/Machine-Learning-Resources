@@ -18,6 +18,13 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 05 Mar 2024
+1. [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://huggingface.co/papers/2403.00522)
+2. [Learning and Leveraging World Models in Visual Representation Learning](https://huggingface.co/papers/2403.00504)
+3. [Resonance RoPE: Improving Context Length Generalization of Large Language Models](https://huggingface.co/papers/2403.00071)
+4. [AtP*: An efficient and scalable method for localizing LLM behaviour to components](https://huggingface.co/papers/2403.00745)
+5. [RealCustom: Narrowing Real Text Word for Real-Time Open-Domain Text-to-Image Customization](https://huggingface.co/papers/2403.00483)
+
 ### 04 Mar 2024
 1. [StarCoder 2 and The Stack v2: The Next Generation](https://huggingface.co/papers/2402.19173)
 2. [Beyond Language Models: Byte Models are Digital World Simulators](https://huggingface.co/papers/2402.19155)

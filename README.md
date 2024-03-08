@@ -18,6 +18,18 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 08 Mar 2024
+1. [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://huggingface.co/papers/2403.04132)
+2. [Teaching Large Language Models to Reason with Reinforcement Learning](https://huggingface.co/papers/2403.04642)
+3. [StableDrag: Stable Dragging for Point-based Image Editing](https://huggingface.co/papers/2403.04437)
+4. [Common 7B Language Models Already Possess Strong Math Capabilities](https://huggingface.co/papers/2403.04706)
+5. [Yi: Open Foundation Models by 01.AI](https://huggingface.co/papers/2403.04652)
+6. [LLMs in the Imaginarium: Tool Learning through Simulated Trial and Error](https://huggingface.co/papers/2403.04746)
+7. [PixArt-Σ: Weak-to-Strong Training of Diffusion Transformer for 4K Text-to-Image Generation](https://huggingface.co/papers/2403.04692)
+8. [How Far Are We from Intelligent Visual Deductive Reasoning?](https://huggingface.co/papers/2403.04732)
+9. [Pix2Gif: Motion-Guided Diffusion for GIF Generation](https://huggingface.co/papers/2403.04634)
+10. [Radiative Gaussian Splatting for Efficient X-ray Novel View Synthesis](https://huggingface.co/papers/2403.04116)
+
 ### 05 Mar 2024
 1. [VisionLLaMA: A Unified LLaMA Interface for Vision Tasks](https://huggingface.co/papers/2403.00522)
 2. [Learning and Leveraging World Models in Visual Representation Learning](https://huggingface.co/papers/2403.00504)

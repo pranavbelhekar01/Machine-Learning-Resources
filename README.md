@@ -18,6 +18,15 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 11 Mar 2024
+1. [ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment](https://huggingface.co/papers/2403.05135)
+2. [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://huggingface.co/papers/2403.05530)
+3. [DeepSeek-VL: Towards Real-World Vision-Language Understanding](https://huggingface.co/papers/2403.05525)
+4. [CogView3: Finer and Faster Text-to-Image Generation via Relay Diffusion](https://huggingface.co/papers/2403.05121)
+5. [VideoElevator: Elevating Video Generation Quality with Versatile Text-to-Image Diffusion Models](https://huggingface.co/papers/2403.05438)
+6. [Personalized Audiobook Recommendations at Spotify Through Graph Neural Networks](https://huggingface.co/papers/2403.05185)
+7. [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://huggingface.co/papers/2403.05034)
+
 ### 08 Mar 2024
 1. [Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference](https://huggingface.co/papers/2403.04132)
 2. [Teaching Large Language Models to Reason with Reinforcement Learning](https://huggingface.co/papers/2403.04642)

@@ -18,6 +18,17 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 12 Mar 2024
+1. [Stealing Part of a Production Language Model](https://huggingface.co/papers/2403.06634)
+2. [Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU](https://huggingface.co/papers/2403.06504)
+3. [An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models](https://huggingface.co/papers/2403.06764)
+4. [VideoMamba: State Space Model for Efficient Video Understanding](https://huggingface.co/papers/2403.06977)
+5. [Multistep Consistency Models](https://huggingface.co/papers/2403.06807)
+6. [Algorithmic progress in language models](https://huggingface.co/papers/2403.05812)
+7. [V3D: Video Diffusion Models are Effective 3D Generators](https://huggingface.co/papers/2403.06738)
+8. [VidProM: A Million-scale Real Prompt-Gallery Dataset for Text-to-Video Diffusion Models](https://huggingface.co/papers/2403.06098)
+9. [FaceChain-SuDe: Building Derived Class to Inherit Category Attributes for One-shot Subject-Driven Generation](https://huggingface.co/papers/2403.06775)
+
 ### 11 Mar 2024
 1. [ELLA: Equip Diffusion Models with LLM for Enhanced Semantic Alignment](https://huggingface.co/papers/2403.05135)
 2. [Gemini 1.5: Unlocking multimodal understanding across millions of tokens of context](https://huggingface.co/papers/2403.05530)

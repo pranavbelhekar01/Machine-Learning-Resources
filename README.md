@@ -18,6 +18,16 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 13 Mar 2024
+1. [MoAI: Mixture of All Intelligence for Large Language and Vision Models](https://huggingface.co/papers/2403.07508)
+2. [Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM](https://huggingface.co/papers/2403.07816)
+3. [Synth$^2$: Boosting Visual-Language Models with Synthetic Captions and Image Embeddings](https://huggingface.co/papers/2403.07750)
+4. [Chronos: Learning the Language of Time Series](https://huggingface.co/papers/2403.07815)
+5. [Learning Generalizable Feature Fields for Mobile Manipulation](https://huggingface.co/papers/2403.07563)
+6. [Motion Mamba: Efficient and Long Sequence Motion Generation with Hierarchical and Bidirectional Selective SSM](https://huggingface.co/papers/2403.07487)
+7. [FAX: Scalable and Differentiable Federated Primitives in JAX](https://huggingface.co/papers/2403.07128)
+8. [DragAnything: Motion Control for Anything using Entity Representation](https://huggingface.co/papers/2403.07420)
+
 ### 12 Mar 2024
 1. [Stealing Part of a Production Language Model](https://huggingface.co/papers/2403.06634)
 2. [Adding NVMe SSDs to Enable and Accelerate 100B Model Fine-tuning on a Single GPU](https://huggingface.co/papers/2403.06504)

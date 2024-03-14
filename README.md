@@ -18,6 +18,17 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 14 Mar 2024
+1. [Gemma: Open Models Based on Gemini Research and Technology](https://huggingface.co/papers/2403.08295)
+2. [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://huggingface.co/papers/2403.08763)
+3. [VLOGGER: Multimodal Diffusion for Embodied Avatar Synthesis](https://huggingface.co/papers/2403.08764)
+4. [Scaling Up Dynamic Human-Scene Interaction Modeling](https://huggingface.co/papers/2403.08629)
+5. [Language models scale reliably with over-training and on downstream tasks](https://huggingface.co/papers/2403.08540)
+6. [SOTOPIA-$π$: Interactive Learning of Socially Intelligent Language Agents](https://huggingface.co/papers/2403.08715)
+7. [On the Societal Impact of Open Foundation Models](https://huggingface.co/papers/2403.07918)
+8. [Follow-Your-Click: Open-domain Regional Image Animation via Short Prompts](https://huggingface.co/papers/2403.08268)
+9. [GaussianImage: 1000 FPS Image Representation and Compression by 2D Gaussian Splatting](https://huggingface.co/papers/2403.08551)
+
 ### 13 Mar 2024
 1. [MoAI: Mixture of All Intelligence for Large Language and Vision Models](https://huggingface.co/papers/2403.07508)
 2. [Branch-Train-MiX: Mixing Expert LLMs into a Mixture-of-Experts LLM](https://huggingface.co/papers/2403.07816)

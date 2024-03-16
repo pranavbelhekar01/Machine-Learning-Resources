@@ -18,6 +18,22 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 16 Mar 2024
+1. [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://huggingface.co/papers/2403.09611)
+2. [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](https://huggingface.co/papers/2403.09029)
+3. [Quiet-STaR: Language Models Can Teach Themselves to Think Before Speaking](https://huggingface.co/papers/2403.09629)
+4. [GiT: Towards Generalist Vision Transformer through Universal Language Interface](https://huggingface.co/papers/2403.09394)
+5. [Video Editing via Factorized Diffusion Distillation](https://huggingface.co/papers/2403.09334)
+6. [StreamMultiDiffusion: Real-Time Interactive Generation with Region-Based Semantic Control](https://huggingface.co/papers/2403.09055)
+7. [BurstAttention: An Efficient Distributed Attention Framework for Extremely Long Sequences](https://huggingface.co/papers/2403.09347)
+8. [Griffon v2: Advancing Multimodal Perception with High-Resolution Scaling and Visual-Language Co-Referring](https://huggingface.co/papers/2403.09333)
+9. [Video Mamba Suite: State Space Model as a Versatile Alternative for Video Understanding](https://huggingface.co/papers/2403.09626)
+10. [LocalMamba: Visual State Space Model with Windowed Selective Scan](https://huggingface.co/papers/2403.09338)
+11. [VisionGPT-3D: A Generalized Multimodal Agent for Enhanced 3D Vision Understanding](https://huggingface.co/papers/2403.09530)
+12. [3D-VLA: A 3D Vision-Language-Action Generative World Model](https://huggingface.co/papers/2403.09631)
+13. [Veagle: Advancements in Multimodal Representation Learning](https://huggingface.co/papers/2403.08773)
+14. [Glyph-ByT5: A Customized Text Encoder for Accurate Visual Text Rendering](https://huggingface.co/papers/2403.09622)
+
 ### 14 Mar 2024
 1. [Gemma: Open Models Based on Gemini Research and Technology](https://huggingface.co/papers/2403.08295)
 2. [Simple and Scalable Strategies to Continually Pre-train Large Language Models](https://huggingface.co/papers/2403.08763)

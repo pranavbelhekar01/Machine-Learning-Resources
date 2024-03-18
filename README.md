@@ -18,6 +18,17 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 18 Mar 2024
+1. [Uni-SMART: Universal Science Multimodal Analysis and Research Transformer](https://huggingface.co/papers/2403.10301)
+2. [VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://huggingface.co/papers/2403.10517)
+3. [Recurrent Drafter for Fast Speculative Decoding in Large Language Models](https://huggingface.co/papers/2403.09919)
+4. [RAFT: Adapting Language Model to Domain Specific RAG](https://huggingface.co/papers/2403.10131)
+5. [Alignment Studio: Aligning Large Language Models to Particular Contextual Regulations](https://huggingface.co/papers/2403.09704)
+6. [EfficientVMamba: Atrous Selective Scan for Light Weight Visual Mamba](https://huggingface.co/papers/2403.09977)
+7. [MusicHiFi: Fast High-Fidelity Stereo Vocoding](https://huggingface.co/papers/2403.10493)
+8. [Isotropic3D: Image-to-3D Generation Based on a Single CLIP Embedding](https://huggingface.co/papers/2403.10395)
+9. [Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://huggingface.co/papers/2403.09981)
+
 ### 17 Mar 2024
 1. [MM1: Methods, Analysis & Insights from Multimodal LLM Pre-training](https://huggingface.co/papers/2403.09611)
 2. [Unlocking the conversion of Web Screenshots into HTML Code with the WebSight Dataset](https://huggingface.co/papers/2403.09029)

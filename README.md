@@ -18,6 +18,21 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 19 Mar 2024
+1. [Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation](https://huggingface.co/papers/2403.12015)
+2. [PERL: Parameter Efficient Reinforcement Learning from Human Feedback](https://huggingface.co/papers/2403.10704)
+3. [Larimar: Large Language Models with Episodic Memory Control](https://huggingface.co/papers/2403.11901)
+4. [Generic 3D Diffusion Adapter Using Controlled Multi-View Editing](https://huggingface.co/papers/2403.12032)
+5. [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://huggingface.co/papers/2403.12008)
+6. [Infinite-ID: Identity-preserved Personalization via ID-semantics Decoupling Paradigm](https://huggingface.co/papers/2403.11781)
+7. [LLaVA-UHD: an LMM Perceiving Any Aspect Ratio and High-Resolution Images](https://huggingface.co/papers/2403.11703)
+8. [LightIt: Illumination Modeling and Control for Diffusion Models](https://huggingface.co/papers/2403.10615)
+9. [LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation](https://huggingface.co/papers/2403.12019)
+10. [MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data](https://huggingface.co/papers/2403.11207)
+11. [VideoAgent: A Memory-augmented Multimodal Agent for Video Understanding](https://huggingface.co/papers/2403.11481)
+12. [VFusion3D: Learning Scalable 3D Generative Models from Video Diffusion Models](https://huggingface.co/papers/2403.12034)
+13. [DiPaCo: Distributed Path Composition](https://huggingface.co/papers/2403.10616)
+
 ### 18 Mar 2024
 1. [Uni-SMART: Universal Science Multimodal Analysis and Research Transformer](https://huggingface.co/papers/2403.10301)
 2. [VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://huggingface.co/papers/2403.10517)

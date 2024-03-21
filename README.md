@@ -18,6 +18,26 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 21 Mar 2024
+1. [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://huggingface.co/papers/2403.13248)
+2. [LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)
+3. [SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model](https://huggingface.co/papers/2403.13064)
+4. [Evolutionary Optimization of Model Merging Recipes](https://huggingface.co/papers/2403.13187)
+5. [When Do We Not Need Larger Vision Models?](https://huggingface.co/papers/2403.13043)
+6. [IDAdapter: Learning Mixed Features for Tuning-Free Personalization of Text-to-Image Models](https://huggingface.co/papers/2403.13535)
+7. [RadSplat: Radiance Field-Informed Gaussian Splatting for Robust Real-Time Rendering with 900+ FPS](https://huggingface.co/papers/2403.13806)
+8. [HyperLLaVA: Dynamic Visual and Language Expert Tuning for Multimodal Large Language Models](https://huggingface.co/papers/2403.13447)
+9. [Magic Fixup: Streamlining Photo Editing by Watching Dynamic Videos](https://huggingface.co/papers/2403.13044)
+10. [RewardBench: Evaluating Reward Models for Language Modeling](https://huggingface.co/papers/2403.13787)
+11. [DepthFM: Fast Monocular Depth Estimation with Flow Matching](https://huggingface.co/papers/2403.13788)
+12. [Be-Your-Outpainter: Mastering Video Outpainting through Input-Specific Adaptation](https://huggingface.co/papers/2403.13745)
+13. [VSTAR: Generative Temporal Nursing for Longer Dynamic Video Synthesis](https://huggingface.co/papers/2403.13501)
+14. [ZigMa: Zigzag Mamba Diffusion Model](https://huggingface.co/papers/2403.13802)
+15. [Compress3D: a Compressed Latent Space for 3D Generation from a Single Image](https://huggingface.co/papers/2403.13524)
+16. [Towards 3D Molecule-Text Interpretation in Language Models](https://huggingface.co/papers/2401.13923)
+17. [Evaluating Frontier Models for Dangerous Capabilities](https://huggingface.co/papers/2403.13793)
+18. [Reverse Training to Nurse the Reversal Curse](https://huggingface.co/papers/2403.13799)
+
 ### 19 Mar 2024
 1. [Fast High-Resolution Image Synthesis with Latent Adversarial Diffusion Distillation](https://huggingface.co/papers/2403.12015)
 2. [PERL: Parameter Efficient Reinforcement Learning from Human Feedback](https://huggingface.co/papers/2403.10704)

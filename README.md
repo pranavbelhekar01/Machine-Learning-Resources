@@ -18,6 +18,16 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 26 Mar 2024
+1. [LLM Agent Operating System](https://huggingface.co/papers/2403.16971)
+2. [FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://huggingface.co/papers/2403.17008)
+3. [Be Yourself: Bounded Attention for Multi-Subject Text-to-Image Generation](https://huggingface.co/papers/2403.16990)
+4. [Decoding Compressed Trust: Scrutinizing the Trustworthiness of Efficient LLMs Under Compression](https://huggingface.co/papers/2403.15447)
+5. [TRIP: Temporal Residual Learning with Image Noise Prior for Image-to-Video Diffusion Models](https://huggingface.co/papers/2403.17005)
+6. [RakutenAI-7B: Extending Large Language Models for Japanese](https://huggingface.co/papers/2403.15484)
+7. [VP3D: Unleashing 2D Visual Prompt for Text-to-3D Generation](https://huggingface.co/papers/2403.17001)
+8. [SDXS: Real-Time One-Step Latent Diffusion Models with Image Conditions](https://huggingface.co/papers/2403.16627)
+
 ### 21 Mar 2024
 1. [Mora: Enabling Generalist Video Generation via A Multi-Agent Framework](https://huggingface.co/papers/2403.13248)
 2. [LlamaFactory: Unified Efficient Fine-Tuning of 100+ Language Models](https://huggingface.co/papers/2403.13372)

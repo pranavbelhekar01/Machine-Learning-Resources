@@ -18,6 +18,18 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 28 Mar 2024
+1. [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://huggingface.co/papers/2403.18814)
+2. [BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text](https://huggingface.co/papers/2403.18421)
+3. [ViTAR: Vision Transformer with Any Resolution](https://huggingface.co/papers/2403.18361)
+4. [Garment3DGen: 3D Garment Stylization and Texture Generation](https://huggingface.co/papers/2403.18816)
+5. [Long-form factuality in large language models](https://huggingface.co/papers/2403.18802)
+6. [Gamba: Marry Gaussian Splatting with Mamba for single view 3D reconstruction](https://huggingface.co/papers/2403.18795)
+7. [ObjectDrop: Bootstrapping Counterfactuals for Photorealistic Object Removal and Insertion](https://huggingface.co/papers/2403.18818)
+8. [FlexEdit: Flexible and Controllable Diffusion-based Object-centric Image Editing](https://huggingface.co/papers/2403.18605)
+9. [Towards a World-English Language Model for On-Device Virtual Assistants](https://huggingface.co/papers/2403.18783)
+10. [EgoLifter: Open-world 3D Segmentation for Egocentric Perception](https://huggingface.co/papers/2403.18118)
+
 ### 26 Mar 2024
 1. [LLM Agent Operating System](https://huggingface.co/papers/2403.16971)
 2. [FlashFace: Human Image Personalization with High-fidelity Identity Preservation](https://huggingface.co/papers/2403.17008)

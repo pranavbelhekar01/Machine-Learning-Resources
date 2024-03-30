@@ -18,6 +18,13 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 30 Mar 2024
+1. [sDPO: Don't Use Your Data All at Once](https://huggingface.co/papers/2403.19270)
+2. [LITA: Language Instructed Temporal-Localization Assistant](https://huggingface.co/papers/2403.19046)
+3. [GaussianCube: Structuring Gaussian Splatting using Optimal Transport for 3D Generative Modeling](https://huggingface.co/papers/2403.19655)
+4. [TextCraftor: Your Text Encoder Can be Image Quality Controller](https://huggingface.co/papers/2403.18978)
+5. [Mesh2NeRF: Direct Mesh Supervision for Neural Radiance Field Representation and Generation](https://huggingface.co/papers/2403.19319)
+
 ### 28 Mar 2024
 1. [Mini-Gemini: Mining the Potential of Multi-modality Vision Language Models](https://huggingface.co/papers/2403.18814)
 2. [BioMedLM: A 2.7B Parameter Language Model Trained On Biomedical Text](https://huggingface.co/papers/2403.18421)

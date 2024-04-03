@@ -18,6 +18,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 03 Apr 2024
+1. [Advancing LLM Reasoning Generalists with Preference Trees](https://huggingface.co/papers/2404.02078)
+2. [Octopus v2: On-device language model for super agent](https://huggingface.co/papers/2404.01744)
+3. [Long-context LLMs Struggle with Long In-context Learning](https://huggingface.co/papers/2404.02060)
+4. [Bigger is not Always Better: Scaling Properties of Latent Diffusion Models](https://huggingface.co/papers/2404.01367)
+5. [LLaVA-Gemma: Accelerating Multimodal Foundation Models with a Compact Language Model](https://huggingface.co/papers/2404.01331)
+6. [Poro 34B and the Blessing of Multilinguality](https://huggingface.co/papers/2404.01856)
+7. [CameraCtrl: Enabling Camera Control for Text-to-Video Generation](https://huggingface.co/papers/2404.02101)
+8. [HyperCLOVA X Technical Report](https://huggingface.co/papers/2404.01954)
+9. [Are large language models superhuman chemists?](https://huggingface.co/papers/2404.01475)
+10. [3D Congealing: 3D-Aware Image Alignment in the Wild](https://huggingface.co/papers/2404.02125)
+11. [LLM-ABR: Designing Adaptive Bitrate Algorithms via Large Language Models](https://huggingface.co/papers/2404.01617)
+
 ### 30 Mar 2024
 1. [sDPO: Don't Use Your Data All at Once](https://huggingface.co/papers/2403.19270)
 2. [LITA: Language Instructed Temporal-Localization Assistant](https://huggingface.co/papers/2403.19046)

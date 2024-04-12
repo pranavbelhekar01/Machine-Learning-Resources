@@ -18,6 +18,21 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 12 Apr 2024
+1. [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](https://huggingface.co/papers/2404.07987)
+2. [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://huggingface.co/papers/2404.07972)
+3. [Rho-1: Not All Tokens Are What You Need](https://huggingface.co/papers/2404.07965)
+4. [JetMoE: Reaching Llama2 Performance with 0.1M Dollars](https://huggingface.co/papers/2404.07413)
+5. [Transferable and Principled Efficiency for Open-Vocabulary Segmentation](https://huggingface.co/papers/2404.07448)
+6. [LLoCO: Learning Long Contexts Offline](https://huggingface.co/papers/2404.07979)
+7. [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://huggingface.co/papers/2404.07973)
+8. [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://huggingface.co/papers/2404.07839)
+9. [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://huggingface.co/papers/2404.07503)
+10. [Audio Dialogues: Dialogues dataset for audio and music understanding](https://huggingface.co/papers/2404.07616)
+11. [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://huggingface.co/papers/2404.07544)
+12. [Sparse Laneformer](https://huggingface.co/papers/2404.07821)
+13. [Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models](https://huggingface.co/papers/2404.07724)
+
 ### 03 Apr 2024
 1. [Advancing LLM Reasoning Generalists with Preference Trees](https://huggingface.co/papers/2404.02078)
 2. [Octopus v2: On-device language model for super agent](https://huggingface.co/papers/2404.01744)

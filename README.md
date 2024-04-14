@@ -18,6 +18,23 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 14 Apr 2024
+1. [Rho-1: Not All Tokens Are What You Need](https://huggingface.co/papers/2404.07965)
+2. [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](https://huggingface.co/papers/2404.07987)
+3. [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://huggingface.co/papers/2404.07972)
+4. [RecurrentGemma: Moving Past Transformers for Efficient Open Language Models](https://huggingface.co/papers/2404.07839)
+5. [Ferret-v2: An Improved Baseline for Referring and Grounding with Large Language Models](https://huggingface.co/papers/2404.07973)
+6. [JetMoE: Reaching Llama2 Performance with 0.1M Dollars](https://huggingface.co/papers/2404.07413)
+7. [WILBUR: Adaptive In-Context Learning for Robust and Accurate Web Agents](https://huggingface.co/papers/2404.05902)
+8. [Best Practices and Lessons Learned on Synthetic Data for Language Models](https://huggingface.co/papers/2404.07503)
+9. [HGRN2: Gated Linear RNNs with State Expansion](https://huggingface.co/papers/2404.07904)
+10. [From Words to Numbers: Your Large Language Model Is Secretly A Capable Regressor When Given In-Context Examples](https://huggingface.co/papers/2404.07544)
+11. [Applying Guidance in a Limited Interval Improves Sample and Distribution Quality in Diffusion Models](https://huggingface.co/papers/2404.07724)
+12. [LLoCO: Learning Long Contexts Offline](https://huggingface.co/papers/2404.07979)
+13. [Audio Dialogues: Dialogues dataset for audio and music understanding](https://huggingface.co/papers/2404.07616)
+14. [Transferable and Principled Efficiency for Open-Vocabulary Segmentation](https://huggingface.co/papers/2404.07448)
+15. [Sparse Laneformer](https://huggingface.co/papers/2404.07821)
+
 ### 12 Apr 2024
 1. [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](https://huggingface.co/papers/2404.07987)
 2. [OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments](https://huggingface.co/papers/2404.07972)

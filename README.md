@@ -18,6 +18,10 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 17 Apr 2024
+1. [Scaling Instructable Agents Across Many Simulated Worlds](https://huggingface.co/papers/2404.10179)
+2. [Long-form music generation with latent diffusion](https://huggingface.co/papers/2404.10301)
+
 ### 14 Apr 2024
 1. [Rho-1: Not All Tokens Are What You Need](https://huggingface.co/papers/2404.07965)
 2. [ControlNet++: Improving Conditional Controls with Efficient Consistency Feedback](https://huggingface.co/papers/2404.07987)

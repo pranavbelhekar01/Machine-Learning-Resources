@@ -18,6 +18,19 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 23 Apr 2024
+1. [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://huggingface.co/papers/2404.14219)
+2. [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://huggingface.co/papers/2404.13208)
+3. [How Good Are Low-bit Quantized LLaMA3 Models? An Empirical Study](https://huggingface.co/papers/2404.14047)
+4. [Hyper-SD: Trajectory Segmented Consistency Model for Efficient Image Synthesis](https://huggingface.co/papers/2404.13686)
+5. [FlowMind: Automatic Workflow Generation with LLMs](https://huggingface.co/papers/2404.13050)
+6. [A Multimodal Automated Interpretability Agent](https://huggingface.co/papers/2404.14394)
+7. [SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation](https://huggingface.co/papers/2404.14396)
+8. [Music Consistency Models](https://huggingface.co/papers/2404.13358)
+9. [MultiBooth: Towards Generating All Your Concepts in an Image from Text](https://huggingface.co/papers/2404.14239)
+10. [Scene Coordinate Reconstruction: Posing of Image Collections via Incremental Learning of a Relocalizer](https://huggingface.co/papers/2404.14351)
+11. [Learning H-Infinity Locomotion Control](https://huggingface.co/papers/2404.14405)
+
 ### 18 Apr 2024
 1. [Long-form music generation with latent diffusion](https://huggingface.co/papers/2404.10301)
 2. [Scaling Instructable Agents Across Many Simulated Worlds](https://huggingface.co/papers/2404.10179)

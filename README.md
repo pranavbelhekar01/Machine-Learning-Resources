@@ -18,6 +18,16 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 08 May 2024
+1. [LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report](https://huggingface.co/papers/2405.00732)
+2. [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](https://huggingface.co/papers/2405.01535)
+3. [WildChat: 1M ChatGPT Interaction Logs in the Wild](https://huggingface.co/papers/2405.01470)
+4. [StoryDiffusion: Consistent Self-Attention for Long-Range Image and Video Generation](https://huggingface.co/papers/2405.01434)
+5. [NeMo-Aligner: Scalable Toolkit for Efficient Model Alignment](https://huggingface.co/papers/2405.01481)
+6. [FLAME: Factuality-Aware Alignment for Large Language Models](https://huggingface.co/papers/2405.01525)
+7. [Customizing Text-to-Image Models with a Single Image Pair](https://huggingface.co/papers/2405.01536)
+8. [LLM-AD: Large Language Model based Audio Description System](https://huggingface.co/papers/2405.00983)
+
 ### 23 Apr 2024
 1. [Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone](https://huggingface.co/papers/2404.14219)
 2. [The Instruction Hierarchy: Training LLMs to Prioritize Privileged Instructions](https://huggingface.co/papers/2404.13208)

@@ -18,6 +18,10 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 17 May 2024
+1. [Dual3D: Efficient and Consistent Text-to-3D Generation with Dual-mode Multi-view Latent Diffusion](https://huggingface.co/papers/2405.09874)
+2. [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://huggingface.co/papers/2405.09818)
+
 ### 08 May 2024
 1. [LoRA Land: 310 Fine-tuned LLMs that Rival GPT-4, A Technical Report](https://huggingface.co/papers/2405.00732)
 2. [Prometheus 2: An Open Source Language Model Specialized in Evaluating Other Language Models](https://huggingface.co/papers/2405.01535)

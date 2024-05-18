@@ -18,6 +18,16 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 18 May 2024
+1. [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://huggingface.co/papers/2405.09818)
+2. [LoRA Learns Less and Forgets Less](https://huggingface.co/papers/2405.09673)
+3. [Many-Shot In-Context Learning in Multimodal Foundation Models](https://huggingface.co/papers/2405.09798)
+4. [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://huggingface.co/papers/2405.10314)
+5. [Grounding DINO 1.5: Advance the "Edge" of Open-Set Object Detection](https://huggingface.co/papers/2405.10300)
+6. [Dual3D: Efficient and Consistent Text-to-3D Generation with Dual-mode Multi-view Latent Diffusion](https://huggingface.co/papers/2405.09874)
+7. [Toon3D: Seeing Cartoons from a New Perspective](https://huggingface.co/papers/2405.10320)
+8. [TRANSIC: Sim-to-Real Policy Transfer by Learning from Online Correction](https://huggingface.co/papers/2405.10315)
+
 ### 17 May 2024
 1. [Dual3D: Efficient and Consistent Text-to-3D Generation with Dual-mode Multi-view Latent Diffusion](https://huggingface.co/papers/2405.09874)
 2. [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://huggingface.co/papers/2405.09818)

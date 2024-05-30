@@ -18,6 +18,20 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 30 May 2024
+1. [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://huggingface.co/papers/2405.19327)
+2. [LLMs achieve adult human performance on higher-order theory of mind tasks](https://huggingface.co/papers/2405.18870)
+3. [T2V-Turbo: Breaking the Quality Bottleneck of Video Consistency Model with Mixed Reward Feedback](https://huggingface.co/papers/2405.18750)
+4. [NPGA: Neural Parametric Gaussian Avatars](https://huggingface.co/papers/2405.19331)
+5. [SoundCTM: Uniting Score-based and Consistency Models for Text-to-Sound Generation](https://huggingface.co/papers/2405.18503)
+6. [Atlas3D: Physically Constrained Self-Supporting Text-to-3D for Simulation and Fabrication](https://huggingface.co/papers/2405.18515)
+7. [EasyAnimate: A High-Performance Long Video Generation Method based on Transformer Architecture](https://huggingface.co/papers/2405.18991)
+8. [Offline Regularised Reinforcement Learning for Large Language Models Alignment](https://huggingface.co/papers/2405.19107)
+9. [Zipper: A Multi-Tower Decoder Architecture for Fusing Modalities](https://huggingface.co/papers/2405.18669)
+10. [Nearest Neighbor Speculative Decoding for LLM Generation and Attribution](https://huggingface.co/papers/2405.19325)
+11. [Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF](https://huggingface.co/papers/2405.19320)
+12. [Self-Exploring Language Models: Active Preference Elicitation for Online Alignment](https://huggingface.co/papers/2405.19332)
+
 ### 18 May 2024
 1. [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://huggingface.co/papers/2405.09818)
 2. [LoRA Learns Less and Forgets Less](https://huggingface.co/papers/2405.09673)

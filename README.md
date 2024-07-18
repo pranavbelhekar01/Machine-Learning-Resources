@@ -18,6 +18,8 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 18 Jul 2024
+
 ### 30 May 2024
 1. [MAP-Neo: Highly Capable and Transparent Bilingual Large Language Model Series](https://huggingface.co/papers/2405.19327)
 2. [LLMs achieve adult human performance on higher-order theory of mind tasks](https://huggingface.co/papers/2405.18870)

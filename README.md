@@ -18,6 +18,8 @@ This repository is dedicated to curating and sharing daily insights from the wor
 Feel free to explore the different sections and discover valuable resources that contribute to the ever-evolving landscape of AI.
 
 ## Papers
+### 01 Aug 2024
+
 ### 30 Jul 2024
 
 ### 19 Jul 2024
